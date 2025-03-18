@@ -6,6 +6,9 @@ The paper, set to be published soon with the aforementioned title, features insi
 from an experts' survey and offers valuable perspectives on how cloud systems can be designed 
 with environmental responsibility in mind 🌿.
 
+![Cloud System Sustainability](assets/cloud-system-sustainabilityl.jpeg)
+
+
 ## 🚀 Key Highlights:
 
 **Risk Assessment:** Understanding potential risks and their impact on both system performance 
@@ -20,12 +23,19 @@ recommendations on sustainable design practices 💬.
 **Best Practices:** Actionable steps to integrate sustainable design principles into cloud 
 systems without compromising performance or cost ⚡.
 
+
+
 ## 🔑 Why This Matters:
 As cloud computing continues to grow, it's crucial to balance technological advancement with 
 environmental responsibility. This study highlights the evolving landscape of risk-based approaches 
 to sustainability, helping professionals make informed decisions for the future of cloud architecture. 🌍
 
+
+
 ## 🔍 What You Will Find:
+
+**Exported Survey:** Exported Survey from Google Forms, including all the Questions ☁️.
+
 **Survey Findings:** Key takeaways from the experts' responses 📊.
 
 **Recommendations:** Practical guidance for adopting sustainable practices in cloud design 🌱.
